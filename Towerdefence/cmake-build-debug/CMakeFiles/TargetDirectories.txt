@@ -1,3 +1,0 @@
-/home/patrick/Documents/Datalogi/TowerDefence/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/patrick/Documents/Datalogi/TowerDefence/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/patrick/Documents/Datalogi/TowerDefence/cmake-build-debug/CMakeFiles/TowerDefence.dir
