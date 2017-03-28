@@ -4,8 +4,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>280</x>
-      <y>540</y>
+      <x>230</x>
+      <y>450</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -16,8 +16,8 @@ V2</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>280</x>
-      <y>620</y>
+      <x>230</x>
+      <y>530</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -28,8 +28,8 @@ Rect</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>320</x>
-      <y>570</y>
+      <x>270</x>
+      <y>480</y>
       <w>30</w>
       <h>70</h>
     </coordinates>
@@ -39,8 +39,8 @@ Rect</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>450</x>
-      <y>620</y>
+      <x>400</x>
+      <y>530</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -51,8 +51,8 @@ Entity</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>290</x>
-      <y>780</y>
+      <x>240</x>
+      <y>690</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -64,8 +64,8 @@ Enemy
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>410</x>
-      <y>780</y>
+      <x>360</x>
+      <y>690</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -76,8 +76,8 @@ Tower</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>330</x>
-      <y>650</y>
+      <x>280</x>
+      <y>560</y>
       <w>180</w>
       <h>150</h>
     </coordinates>
@@ -87,8 +87,8 @@ Tower</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>450</x>
-      <y>650</y>
+      <x>400</x>
+      <y>560</y>
       <w>70</w>
       <h>150</h>
     </coordinates>
@@ -98,8 +98,8 @@ Tower</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>530</x>
-      <y>770</y>
+      <x>480</x>
+      <y>680</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -110,8 +110,8 @@ Laser</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>650</x>
-      <y>770</y>
+      <x>600</x>
+      <y>680</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -122,8 +122,8 @@ Bullet</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>490</x>
-      <y>650</y>
+      <x>440</x>
+      <y>560</y>
       <w>110</w>
       <h>140</h>
     </coordinates>
@@ -133,8 +133,8 @@ Bullet</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>500</x>
-      <y>650</y>
+      <x>450</x>
+      <y>560</y>
       <w>220</w>
       <h>140</h>
     </coordinates>
@@ -144,8 +144,8 @@ Bullet</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>540</x>
-      <y>630</y>
+      <x>490</x>
+      <y>540</y>
       <w>130</w>
       <h>30</h>
     </coordinates>
@@ -155,8 +155,8 @@ Bullet</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>170</x>
-      <y>760</y>
+      <x>120</x>
+      <y>670</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -168,8 +168,8 @@ Waypoint
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>370</x>
-      <y>630</y>
+      <x>320</x>
+      <y>540</y>
       <w>100</w>
       <h>30</h>
     </coordinates>
@@ -179,8 +179,8 @@ Waypoint
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>210</x>
-      <y>650</y>
+      <x>160</x>
+      <y>560</y>
       <w>290</w>
       <h>130</h>
     </coordinates>
@@ -190,8 +190,8 @@ Waypoint
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>900</x>
-      <y>590</y>
+      <x>850</x>
+      <y>500</y>
       <w>130</w>
       <h>60</h>
     </coordinates>
@@ -203,8 +203,8 @@ Using SFML</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>950</x>
-      <y>640</y>
+      <x>900</x>
+      <y>550</y>
       <w>30</w>
       <h>90</h>
     </coordinates>
@@ -214,8 +214,8 @@ Using SFML</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>970</x>
-      <y>800</y>
+      <x>920</x>
+      <y>710</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -226,8 +226,8 @@ StateMenu</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>870</x>
-      <y>840</y>
+      <x>820</x>
+      <y>750</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -238,8 +238,8 @@ StateRun</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>870</x>
-      <y>800</y>
+      <x>820</x>
+      <y>710</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -250,8 +250,8 @@ StateEnd</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>910</x>
-      <y>710</y>
+      <x>860</x>
+      <y>620</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -263,8 +263,8 @@ State
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>950</x>
-      <y>740</y>
+      <x>900</x>
+      <y>650</y>
       <w>30</w>
       <h>80</h>
     </coordinates>
@@ -274,8 +274,8 @@ State
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>970</x>
-      <y>840</y>
+      <x>920</x>
+      <y>750</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -286,8 +286,8 @@ StatePause</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>650</x>
-      <y>620</y>
+      <x>600</x>
+      <y>530</y>
       <w>120</w>
       <h>40</h>
     </coordinates>
@@ -298,8 +298,8 @@ EntityManager</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>700</x>
-      <y>650</y>
+      <x>650</x>
+      <y>560</y>
       <w>230</w>
       <h>100</h>
     </coordinates>
@@ -309,8 +309,8 @@ EntityManager</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>530</x>
-      <y>90</y>
+      <x>480</x>
+      <y>0</y>
       <w>220</w>
       <h>160</h>
     </coordinates>
@@ -333,8 +333,8 @@ Overlapse()
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>330</x>
-      <y>90</y>
+      <x>280</x>
+      <y>0</y>
       <w>180</w>
       <h>170</h>
     </coordinates>
@@ -357,8 +357,8 @@ static (/)Div
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>350</x>
-      <y>290</y>
+      <x>300</x>
+      <y>200</y>
       <w>180</w>
       <h>170</h>
     </coordinates>
@@ -379,8 +379,8 @@ Hit
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>560</x>
-      <y>290</y>
+      <x>510</x>
+      <y>200</y>
       <w>180</w>
       <h>100</h>
     </coordinates>
@@ -390,7 +390,6 @@ Image-list img
 int health
 --
 Move
-Behavior
 
 </panel_attributes>
     <additional_attributes/>
@@ -398,8 +397,8 @@ Behavior
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>250</x>
-      <y>870</y>
+      <x>130</x>
+      <y>880</y>
       <w>180</w>
       <h>70</h>
     </coordinates>
@@ -412,19 +411,19 @@ for enemy and tower</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>330</x>
-      <y>810</y>
-      <w>30</w>
-      <h>80</h>
+      <x>210</x>
+      <y>720</y>
+      <w>100</w>
+      <h>180</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
+    <additional_attributes>80.0;10.0;10.0;160.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>460</x>
-      <y>880</y>
+      <x>360</x>
+      <y>800</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -435,45 +434,105 @@ ImageRoll</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>450</x>
-      <y>810</y>
-      <w>80</w>
-      <h>90</h>
+      <x>400</x>
+      <y>720</y>
+      <w>30</w>
+      <h>100</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>60.0;70.0;10.0;10.0</additional_attributes>
+    <additional_attributes>10.0;80.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>330</x>
-      <y>810</y>
+      <x>280</x>
+      <y>720</y>
       <w>200</w>
-      <h>90</h>
+      <h>100</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>180.0;70.0;10.0;10.0</additional_attributes>
+    <additional_attributes>180.0;80.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>500</x>
+      <x>450</x>
+      <y>710</y>
+      <w>100</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;90.0;80.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>450</x>
+      <y>710</y>
+      <w>220</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;90.0;200.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>380</x>
+      <y>910</y>
+      <w>140</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>SimpleClass
+EnemyPathfinder</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>460</x>
       <y>800</y>
       <w>100</w>
-      <h>100</h>
+      <h>40</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;80.0;80.0;10.0</additional_attributes>
+    <panel_attributes>/AbstractClass/
+Movement
+</panel_attributes>
+    <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>500</x>
-      <y>800</y>
-      <w>220</w>
+      <y>830</y>
+      <w>40</w>
       <h>100</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;80.0;200.0;10.0</additional_attributes>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;20.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>520</x>
+      <y>910</y>
+      <w>140</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>SimpleClass
+TowardEntity</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>400</x>
+      <y>450</y>
+      <w>100</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>SimpleClass
+List</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>
