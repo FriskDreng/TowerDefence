@@ -1,1 +1,1 @@
--lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
+ -LD:/CPP/SFML-MSYS2-64/lib  -LD:/Dropbox/Projects/CPP/TowerDefence/~/SFML-2.4.2/lib -lsfml-graphics -lsfml-window -lsfml-system -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

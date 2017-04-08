@@ -24,13 +24,16 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/include"/>
-					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../include"/>
-					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/include-fixed"/>
-					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/include"/>
-					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../include/c++/6.2.0"/>
-					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../include/c++/6.2.0/x86_64-w64-mingw32"/>
-					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../include/c++/6.2.0/backward"/>
+					<Add directory="D:/Dropbox/Projects/CPP/TowerDefence/include"/>
+					<Add directory="D:/CPP/SFML-MSYS2-64/include"/>
+					<Add directory="D:/Dropbox/Projects/CPP/TowerDefence/~/SFML-2.4.2/include"/>
+					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/../../../../include/c++/6.3.0"/>
+					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/../../../../include/c++/6.3.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/../../../../include/c++/6.3.0/backward"/>
+					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include"/>
+					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/../../../../include"/>
+					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include-fixed"/>
+					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
 					<Build command="D:/CPP/MSYS2-64/mingw64/bin/mingw32-make.exe -f &quot;D:/Dropbox/Projects/CPP/TowerDefence/cmake-build-debug/Makefile&quot;  VERBOSE=1 TowerDefence"/>
@@ -46,13 +49,16 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/include"/>
-					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../include"/>
-					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/include-fixed"/>
-					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/include"/>
-					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../include/c++/6.2.0"/>
-					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../include/c++/6.2.0/x86_64-w64-mingw32"/>
-					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../include/c++/6.2.0/backward"/>
+					<Add directory="D:/Dropbox/Projects/CPP/TowerDefence/include"/>
+					<Add directory="D:/CPP/SFML-MSYS2-64/include"/>
+					<Add directory="D:/Dropbox/Projects/CPP/TowerDefence/~/SFML-2.4.2/include"/>
+					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/../../../../include/c++/6.3.0"/>
+					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/../../../../include/c++/6.3.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/../../../../include/c++/6.3.0/backward"/>
+					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include"/>
+					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/../../../../include"/>
+					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include-fixed"/>
+					<Add directory="D:/CPP/MSYS2-64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
 					<Build command="D:/CPP/MSYS2-64/mingw64/bin/mingw32-make.exe -f &quot;D:/Dropbox/Projects/CPP/TowerDefence/cmake-build-debug/Makefile&quot;  VERBOSE=1 TowerDefence/fast"/>
